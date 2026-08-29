@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9A7&height=200&section=header&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Sanjay...+!" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=8B8B8B&center=true&vCenter=true&width=500&lines=Design+%E2%86%92+Build+%E2%86%92+Innovate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FFD166&center=true&vCenter=true&width=500&lines=Design+%E2%86%92+Build+%E2%86%92+Innovate" alt="Typing SVG" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:4A00E0,100:8E2DE2&height=60&section=header&animation=fadeIn" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -31,10 +31,10 @@ I'm **Sanjay Seetharaman**, an Information Technology undergraduate focused on b
 <tr>
 <td valign="top">
 
-a. Full-Stack Development<br>
-b. AI<br>
-c. Software Engineering<br>
-d. Intelligent & Scalable Solutions<br>
+a. Full-Stack Development
+b. AI & Machine Learning
+c. Software Engineering
+d. Intelligent & Scalable Solutions
 
 </td>
 <td valign="top">
@@ -60,11 +60,7 @@ c. Reducing overthinking
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=3&section=header" width="80%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:F09819,100:FFD166&height=60&section=header&animation=fadeIn" width="100%"/>
 
 ## ⚡ Currently Building
 
@@ -72,20 +68,20 @@ c. Reducing overthinking
 
 | Project | Description | Status |
 |:---|:---|:---:|
-| 🏥 **Exam Date Allocation API** | API for intelligent exam date allocation and scheduling | ![In Progress](https://img.shields.io/badge/In%20Progress-2C5364?style=flat-square) |
-| 🎯 **SIH Loan-Matching Tool** | Smart India Hackathon project for matching users with suitable loan options | ![In Progress](https://img.shields.io/badge/In%20Progress-2C5364?style=flat-square) |
+| 🏥 **Exam Date Allocation API** | API for intelligent exam date allocation and scheduling | ![In Progress](https://img.shields.io/badge/In%20Progress-FF512F?style=for-the-badge) |
+| 🎯 **SIH Loan-Matching Tool** | Smart India Hackathon project for matching users with suitable loan options | ![In Progress](https://img.shields.io/badge/In%20Progress-FF512F?style=for-the-badge) |
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=3&section=header" width="80%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:00E5A0,100:92FE9D&height=60&section=header&animation=fadeIn" width="100%"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2593c9-b6a1-410b-a066-b1c4ec0d0b8b.png" width="35%">
+
+<br/><br/>
 
 #### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
@@ -107,25 +103,17 @@ c. Reducing overthinking
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=3&section=header" width="80%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:A445B2,100:3F5EFB&height=60&section=header&animation=fadeIn" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=scop-0607&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=scop-0607&theme=tokyonight&hide_border=true&background=1A1B27&ring=00C9A7&fire=FFD166&currStreakLabel=00C9A7" height="180"/>
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=3&section=header" width="80%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:8E2DE2&height=60&section=header&animation=fadeIn" width="100%"/>
 
 ## 🔗 Connect
 
@@ -143,8 +131,12 @@ c. Reducing overthinking
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=scop-0607&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=scop-0607&style=for-the-badge&color=FFD166&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-896d-0f4f7a4c7e0e.gif" width="30%">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:00C9A7,100:FFD166&height=150&section=footer&animation=fadeIn" width="100%"/>
