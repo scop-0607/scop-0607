@@ -12,9 +12,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:4A00E0,100:8E2DE2&height=60&section=header&animation=fadeIn" width="100%"/>
-
-## 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:4A00E0,100:8E2DE2&height=120&section=header&text=About%20Me&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -22,14 +20,17 @@ I'm **Sanjay Seetharaman**, an Information Technology undergraduate focused on b
 
 </div>
 
+<br/>
+
+<div align="center">
+
 <table width="100%">
 <tr>
-<th align="center">🎯 Interests</th>
-<th align="center">💪 Strengths</th>
-<th align="center">📈 Currently Improving</th>
-</tr>
-<tr>
-<td valign="top">
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/🎯_Interests-00C9A7?style=for-the-badge&logoColor=white" width="100%"/>
+
+<br/><br/>
 
 a. Full-Stack Development
 b. AI & Machine Learning
@@ -37,14 +38,22 @@ c. Software Engineering
 d. Intelligent & Scalable Solutions
 
 </td>
-<td valign="top">
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/💪_Strengths-4A00E0?style=for-the-badge&logoColor=white" width="100%"/>
+
+<br/><br/>
 
 a. Quick learner
 b. Strong team player
 c. Idea-to-implementation mindset
 
 </td>
-<td valign="top">
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/📈_Currently_Improving-FFD166?style=for-the-badge&logoColor=black" width="100%"/>
+
+<br/><br/>
 
 a. Avoiding over-refinement
 b. Consistency & prioritization
@@ -54,15 +63,13 @@ c. Reducing overthinking
 </tr>
 </table>
 
-<div align="center">
+<br/>
 
 **💬 Open to collaborations, interesting projects, and discussions around technology.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:F09819,100:FFD166&height=60&section=header&animation=fadeIn" width="100%"/>
-
-## ⚡ Currently Building
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:F09819,100:FFD166&height=120&section=header&text=Currently%20Building&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -73,15 +80,9 @@ c. Reducing overthinking
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:00E5A0,100:92FE9D&height=60&section=header&animation=fadeIn" width="100%"/>
-
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:00E5A0,100:92FE9D&height=120&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2593c9-b6a1-410b-a066-b1c4ec0d0b8b.png" width="35%">
-
-<br/><br/>
 
 #### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
@@ -103,19 +104,15 @@ c. Reducing overthinking
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:A445B2,100:3F5EFB&height=60&section=header&animation=fadeIn" width="100%"/>
-
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:A445B2,100:3F5EFB&height=120&section=header&text=GitHub%20Stats&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=scop-0607&theme=tokyonight&hide_border=true&background=1A1B27&ring=00C9A7&fire=FFD166&currStreakLabel=00C9A7" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=scop-0607&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:8E2DE2&height=60&section=header&animation=fadeIn" width="100%"/>
-
-## 🔗 Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:8E2DE2&height=120&section=header&text=Connect%20With%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -132,10 +129,6 @@ c. Reducing overthinking
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=scop-0607&style=for-the-badge&color=FFD166&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-896d-0f4f7a4c7e0e.gif" width="30%">
 
 </div>
 
