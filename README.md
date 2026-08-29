@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,50:00C6FF,100:00E5FF&height=180&section=header&text=Sit%20back%2C%20relax%20and%20enjoy&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:1D3461&height=180&section=header&text=Sit%20back%2C%20relax%20and%20enjoy&fontSize=30&fontColor=64FFDA&animation=fadeIn&fontAlignY=40" width="100%"/>
   
-  <br/><br/>
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjay+Seetharaman" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=7DD3FC&center=true&vCenter=true&width=600&lines=Ideate+%E2%86%92+Develop+%E2%86%92+Innovate" />
