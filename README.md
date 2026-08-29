@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9A7&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,50:00C6FF,100:00E5FF&height=180&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjay+Seetharaman" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjay+Seetharaman" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=FFD166&center=true&vCenter=true&width=600&lines=Design+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=7DD3FC&center=true&vCenter=true&width=600&lines=Sit+back%2C+relax+%26+enjoy+the+code" />
 
 </div>
 
@@ -41,42 +41,33 @@ I'm **Sanjay Seetharaman**, an Information Technology undergraduate focused on b
 
 ### 🛠️ Tech Stack
 
+<div align="center">
+
 #### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 
 #### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,html" />
 
 #### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40"/>
 
 #### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" height="40"/>
 
 #### Infra / Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
 
 #### ML / AI
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/SHAP-4B8BBE?style=for-the-badge&logoColor=white" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40"/>
-</p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/SHAP-4B8BBE?style=for-the-badge&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40"/>
+
+</div>
 
 ---
 
@@ -104,8 +95,8 @@ I'm **Sanjay Seetharaman**, an Information Technology undergraduate focused on b
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=scop-0607&style=for-the-badge&color=FFD166&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=scop-0607&style=for-the-badge&color=00C6FF&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:00C9A7,100:FFD166&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,50:00C6FF,100:00E5FF&height=120&section=footer&animation=fadeIn" width="100%"/>
