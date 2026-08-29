@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=180&section=header&text=Sanjay%20Seetharaman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Design%20→%20Build%20→%20Innovate&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/scop-0607">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C9A7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%9A%A1;AI+%2F+ML+Enthusiast+%F0%9F%A7%A0;Hospital+Digitization+Builder+%F0%9F%8F%A5;Code+%C3%97+AI+%C3%97+Ideas+%E2%86%92+Products+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Sanjay...+!" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=8B8B8B&center=true&vCenter=true&width=500&lines=Design+%E2%86%92+Build+%E2%86%92+Innovate" alt="Typing SVG" />
 
 <br/>
 
-![Full Stack](https://img.shields.io/badge/-Full%20Stack%20Developer-0F2027?style=for-the-badge)
-![AI](https://img.shields.io/badge/-AI%20Enthusiast-2C5364?style=for-the-badge)
-![Builder](https://img.shields.io/badge/-Builder-00C9A7?style=for-the-badge&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%">
 
 </div>
 
@@ -20,39 +18,33 @@
 
 <div align="center">
 
-I'm **Sanjay Seetharaman**, an Information Technology undergraduate focused on building scalable applications and intelligent software solutions. I work across **full-stack development, AI/ML systems, blockchain applications, and automation** — with a strong emphasis on turning ideas into practical, production-ready systems.
-
-Currently part of a 4-person team building real hospital digitization systems — exam scheduling, dialysis monitoring, and asset tracking — at **Rela Institute**, a multi-specialty hospital.
+I'm **Sanjay Seetharaman**, an Information Technology undergraduate focused on building scalable applications and intelligent software solutions. I work across **full-stack development, AI/ML systems, blockchain applications, and automation**, with a strong emphasis on turning ideas into practical, production-ready systems.
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 <th align="center">🎯 Interests</th>
 <th align="center">💪 Strengths</th>
 <th align="center">📈 Currently Improving</th>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" align="center">
 
 Full-Stack Development
 AI & Machine Learning
 Software Engineering
-Intelligent & Scalable Systems
+Intelligent & Scalable Solutions
 
 </td>
-<td valign="top">
+<td valign="top" align="center">
 
 Quick learner
 Strong team player
-Idea → implementation mindset
+Idea-to-implementation mindset
 
 </td>
-<td valign="top">
+<td valign="top" align="center">
 
 Avoiding over-refinement
 Consistency & prioritization
@@ -62,6 +54,8 @@ Reducing overthinking
 </tr>
 </table>
 
+<div align="center">
+
 **💬 Open to collaborations, interesting projects, and discussions around technology.**
 
 </div>
@@ -69,7 +63,7 @@ Reducing overthinking
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=2&section=header" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=3&section=header" width="80%"/>
 </div>
 
 ## ⚡ Currently Building
@@ -78,87 +72,15 @@ Reducing overthinking
 
 | Project | Description | Status |
 |:---|:---|:---:|
-| 🏥 **Exam Date Allocation API** | FastAPI backend that schedules exam dates from grouping Excel files, validated via a 12-point clash report | 🟢 In Progress |
-| 💧 **Dialysis Monitoring Dashboard** | Real-time dialysis session monitoring & scheduling — React, FastAPI, PostgreSQL, InfluxDB | 🟢 In Progress |
-| 📦 **Hospital Asset Tracking System** | BLE/RFID-based real-time medical equipment tracking with RSSI trilateration | 🟡 Planning |
-| 🎯 **SIH26092 Loan-Matching Tool** | AI tool matching SC entrepreneurs to the right government loan scheme — for Smart India Hackathon 2026 | 🟡 In Progress |
+| 🏥 **Exam Date Allocation API** | API for intelligent exam date allocation and scheduling | ![In Progress](https://img.shields.io/badge/In%20Progress-2C5364?style=flat-square) |
+| 🎯 **SIH Loan-Matching Tool** | Smart India Hackathon project for matching users with suitable loan options | ![In Progress](https://img.shields.io/badge/In%20Progress-2C5364?style=flat-square) |
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=2&section=header" width="80%"/>
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Exam Date Allocation API
-Schedules exam dates automatically from Excel-based student groupings. Validates every generated schedule against 12 clash checks — student conflicts, subject uniqueness, semester rules, and date bounds — with zero clashes on tested runs across ODD and EVEN semester modes.
-
-`Python` `FastAPI` `Swagger`
-
-</td>
-<td width="50%" valign="top">
-
-### 💧 Dialysis Monitoring Dashboard
-Real-time session monitoring and scheduling system for hospital dialysis units, designed around live machine data streams and clinical workflow constraints.
-
-`React` `FastAPI` `PostgreSQL` `InfluxDB` `WebSocket`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 Hospital Asset Tracking System
-BLE/RFID-based real-time location system for tracking medical equipment hospital-wide, using RSSI trilateration with Kalman filtering for accurate positioning.
-
-`BLE` `ESP32` `nRF52840` `Kalman Filtering`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 SIH26092 — Loan Matching Tool
-AI-driven matching tool built for Smart India Hackathon 2026, connecting SC entrepreneurs with the government loan schemes best suited to their profile.
-
-`Python` `AI/ML`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=2&section=header" width="80%"/>
-</div>
-
-## 🧭 Developer Journey
-
-<div align="center">
-
-```text
-2024 ─── C / C++
-2025 ─── Python · Web Development · React
-2026 ─── Full Stack Development · Java · PostgreSQL · AI / ML
-NEXT ─── System Design · Docker · Cloud
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=2&section=header" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=3&section=header" width="80%"/>
 </div>
 
 ## 🛠️ Tech Stack
@@ -166,13 +88,13 @@ NEXT ─── System Design · Docker · Cloud
 <div align="center">
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,js" />
 
 #### Backend
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=fastapi" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 
 #### Database
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
@@ -180,38 +102,39 @@ NEXT ─── System Design · Docker · Cloud
 #### Infra / Tools
 <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
 
-#### Design
+#### Others
 <img src="https://skillicons.dev/icons?i=figma" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 <br/><br/>
 
-### 📊 Proficiency
+### 📊 Stack Proficiency
 
 <img src="https://progress-bar.dev/85/?title=React&width=280&color=61dafb"/>
 <img src="https://progress-bar.dev/80/?title=Python&width=280&color=3776ab"/>
 <img src="https://progress-bar.dev/75/?title=FastAPI&width=280&color=009688"/>
 <img src="https://progress-bar.dev/70/?title=PostgreSQL&width=280&color=336791"/>
-<img src="https://progress-bar.dev/60/?title=Java&width=280&color=f89820"/>
-<img src="https://progress-bar.dev/55/?title=AI+%2F+ML&width=280&color=ff6f61"/>
+<img src="https://progress-bar.dev/65/?title=Java&width=280&color=f89820"/>
+<img src="https://progress-bar.dev/60/?title=JavaScript&width=280&color=f7df1e"/>
+<img src="https://progress-bar.dev/55/?title=C+%2F+C%2B%2B&width=280&color=5c6bc0"/>
+<img src="https://progress-bar.dev/50/?title=MySQL&width=280&color=00758f"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=2&section=header" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=3&section=header" width="80%"/>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=scop-0607&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=scop-0607&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=scop-0607&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scop-0607&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=scop-0607&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=scop-0607&theme=tokyonight&no-frame=true&row=2&column=3" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=scop-0607&theme=tokyo-night&hide_border=true" width="90%"/>
 
@@ -220,7 +143,7 @@ NEXT ─── System Design · Docker · Cloud
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=2&section=header" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=3&section=header" width="80%"/>
 </div>
 
 ## 🔗 Connect
@@ -243,4 +166,4 @@ NEXT ─── System Design · Docker · Cloud
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=150&section=footer&animation=fadeIn" width="100%"/>
