@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9A7&height=180&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sanjay...+!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjay+Seetharaman" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FFD166&center=true&vCenter=true&width=500&lines=Design+%E2%86%92+Build+%E2%86%92+Innovate" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=FFD166&center=true&vCenter=true&width=600&lines=Design+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Impact" />
 
 </div>
 
@@ -41,23 +41,42 @@ I'm **Sanjay Seetharaman**, an Information Technology undergraduate focused on b
 
 ### 🛠️ Tech Stack
 
-**Languages**  
-`C` · `C++` · `Java` · `Python` · `JavaScript`
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
 
-**Frontend**  
-`React` · `HTML5`
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html" />
+</p>
 
-**Backend**  
-`FastAPI` · `Node.js` · `Swagger`
+#### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40"/>
+</p>
 
-**Database**  
-`PostgreSQL` · `InfluxDB`
+#### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" height="40"/>
+</p>
 
-**Infra / Tools**  
-`Git` · `GitHub` · `Vercel` · `Netlify`
+#### Infra / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
+</p>
 
-**ML / AI**  
-`Scikit-learn` · `XGBoost` · `SHAP` · `Pandas` · `NumPy`
+#### ML / AI
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/SHAP-4B8BBE?style=for-the-badge&logoColor=white" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40"/>
+</p>
 
 ---
 
