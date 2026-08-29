@@ -109,14 +109,28 @@ Reducing overthinking
 
 ### 📊 Stack Proficiency
 
-<img src="https://progress-bar.dev/85/?title=React&width=280&color=61dafb"/>
-<img src="https://progress-bar.dev/80/?title=Python&width=280&color=3776ab"/>
-<img src="https://progress-bar.dev/75/?title=FastAPI&width=280&color=009688"/>
-<img src="https://progress-bar.dev/70/?title=PostgreSQL&width=280&color=336791"/>
-<img src="https://progress-bar.dev/65/?title=Java&width=280&color=f89820"/>
-<img src="https://progress-bar.dev/60/?title=JavaScript&width=280&color=f7df1e"/>
-<img src="https://progress-bar.dev/55/?title=C+%2F+C%2B%2B&width=280&color=5c6bc0"/>
-<img src="https://progress-bar.dev/50/?title=MySQL&width=280&color=00758f"/>
+<img src="https://progress-bar.dev/85?title=React&width=280&color=61dafb"/>
+<img src="https://progress-bar.dev/80?title=Python&width=280&color=3776ab"/>
+<img src="https://progress-bar.dev/75?title=FastAPI&width=280&color=009688"/>
+<img src="https://progress-bar.dev/70?title=PostgreSQL&width=280&color=336791"/>
+<img src="https://progress-bar.dev/65?title=Java&width=280&color=f89820"/>
+<img src="https://progress-bar.dev/60?title=JavaScript&width=280&color=f7df1e"/>
+<img src="https://progress-bar.dev/55?title=Cpp&width=280&color=5c6bc0"/>
+<img src="https://progress-bar.dev/50?title=MySQL&width=280&color=00758f"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=3&section=header" width="80%"/>
+</div>
+
+## 🧭 Developer Journey
+
+<div align="center">
+
+<img src="./assets/timeline.svg" width="95%"/>
 
 </div>
 
@@ -130,10 +144,10 @@ Reducing overthinking
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=scop-0607&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=scop-0607&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=scop-0607&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=scop-0607&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scop-0607&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scop-0607&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 <img src="https://github-profile-trophy.vercel.app/?username=scop-0607&theme=tokyonight&no-frame=true&row=2&column=3" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=scop-0607&theme=tokyo-night&hide_border=true" width="90%"/>
