@@ -29,26 +29,26 @@ I'm **Sanjay Seetharaman**, an Information Technology undergraduate focused on b
 <th align="center">📈 Currently Improving</th>
 </tr>
 <tr>
-<td valign="top" align="center">
+<td valign="top">
 
-Full-Stack Development
-AI & Machine Learning
-Software Engineering
-Intelligent & Scalable Solutions
-
-</td>
-<td valign="top" align="center">
-
-Quick learner
-Strong team player
-Idea-to-implementation mindset
+a. Full-Stack Development
+b. AI & Machine Learning
+c. Software Engineering
+d. Intelligent & Scalable Solutions
 
 </td>
-<td valign="top" align="center">
+<td valign="top">
 
-Avoiding over-refinement
-Consistency & prioritization
-Reducing overthinking
+a. Quick learner
+b. Strong team player
+c. Idea-to-implementation mindset
+
+</td>
+<td valign="top">
+
+a. Avoiding over-refinement
+b. Consistency & prioritization
+c. Reducing overthinking
 
 </td>
 </tr>
@@ -105,19 +105,19 @@ Reducing overthinking
 #### Others
 <img src="https://skillicons.dev/icons?i=figma" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9A7&height=3&section=header" width="80%"/>
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=scop-0607&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=scop-0607&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scop-0607&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=scop-0607&theme=tokyonight&no-frame=true&row=2&column=3" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=scop-0607&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=scop-0607&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -137,8 +137,8 @@ Reducing overthinking
 <a href="https://github.com/scop-0607">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:sanjayseetharaman3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:sanjayseetharaman3@gmail.com?subject=Hi%20Sanjay%20%F0%9F%91%8B&body=Hey%20Sanjay%2C%0D%0A%0D%0A">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
