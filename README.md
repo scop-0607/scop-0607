@@ -31,10 +31,10 @@ I'm **Sanjay Seetharaman**, an Information Technology undergraduate focused on b
 <tr>
 <td valign="top">
 
-a. Full-Stack Development
-b. AI & Machine Learning
-c. Software Engineering
-d. Intelligent & Scalable Solutions
+a. Full-Stack Development<br>
+b. AI<br>
+c. Software Engineering<br>
+d. Intelligent & Scalable Solutions<br>
 
 </td>
 <td valign="top">
